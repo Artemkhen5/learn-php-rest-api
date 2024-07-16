@@ -1,0 +1,17 @@
+{
+    "name": "artem/api",
+    "autoload": {
+        "psr-4": {
+            "api\\": "."
+        }
+    },
+    "authors": [
+        {
+            "name": "Artem",
+            "email": "artemdev8@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
